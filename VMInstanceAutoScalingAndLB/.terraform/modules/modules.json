@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"lb","Source":"GoogleCloudPlatform/lb/google","Version":"2.2.0","Dir":".terraform/modules/lb"},{"Key":"","Source":"","Dir":"."}]}

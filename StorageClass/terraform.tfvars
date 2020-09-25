@@ -1,0 +1,6 @@
+gcp_project   = "poc-project-286601"
+gcp_region    = "us-central1"
+gcp_auth_file = "tf-key1.json"
+bucket_name = "mytftestbucket123"
+storage_class = "REGIONAL"
+//vpn_name      = "terraform-custom-network"
